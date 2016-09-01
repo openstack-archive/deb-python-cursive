@@ -60,10 +60,13 @@ Depends: python-castellan (>= 0.4.0),
          ${misc:Depends},
          ${python:Depends},
 Suggests: python-cursive-doc,
-Description: Integration library between network and compute - Python 2.7
- A library for plugging and unplugging virtual interfaces in OpenStack.
+Description: OpenStack specific validation of digital signatures - Python 2
+ As OpenStack continues to mature, robust security controls become increasingly
+ critical. The cursive project contains code extracted from various OpenStack
+ projects for verifying digital signatures. Additional capabilities will be
+ added to this project in support of various security features.
  .
- This package contains the Python 2.7 module.
+ This package contains the Python 2 module.
 
 Package: python3-cursive
 Architecture: all
@@ -78,17 +81,23 @@ Depends: python3-castellan (>= 0.4.0),
          ${misc:Depends},
          ${python:Depends},
 Suggests: python-cursive-doc,
-Description: Integration library between network and compute - Python 3.x
- A library for plugging and unplugging virtual interfaces in OpenStack.
+Description:  OpenStack specific validation of digital signatures - Python 3
+ As OpenStack continues to mature, robust security controls become increasingly
+ critical. The cursive project contains code extracted from various OpenStack
+ projects for verifying digital signatures. Additional capabilities will be
+ added to this project in support of various security features.
  .
- This package contains the Python 3.x module.
+ This package contains the Python 3 module.
 
 Package: python-cursive-doc
 Section: doc
 Architecture: all
 Depends: ${misc:Depends},
          ${sphinxdoc:Depends},
-Description: Integration library between network and compute - doc
- A library for plugging and unplugging virtual interfaces in OpenStack.
+Description:  OpenStack specific validation of digital signatures - doc
+ As OpenStack continues to mature, robust security controls become increasingly
+ critical. The cursive project contains code extracted from various OpenStack
+ projects for verifying digital signatures. Additional capabilities will be
+ added to this project in support of various security features.
  .
  This package contains the documentation.
