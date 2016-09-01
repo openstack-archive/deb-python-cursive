@@ -5,13 +5,6 @@ Source: https://github.com/openstack/cursive
 Files: *
 Copyright: 2015, Jay Pipes
            2010-2016, OpenStack Foundation
-           2011, Nicira Inc
-           2011, Midokura KK
-           2011, X.commerce, a business unit of eBay Inc
-           2010, United States Government
-           2013-2014, Hewlett-Packard Development Company, L.P
-           2014, IBM Corp
-           2016, Red Hat, Inc
 License: Apache-2.0
 
 Files: debian/*
