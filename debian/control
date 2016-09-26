@@ -43,8 +43,8 @@ Build-Depends-Indep: python-castellan (>= 0.4.0),
                      subunit (>= 0.0.18),
                      testrepository (>= 0.0.18),
 Standards-Version: 3.9.8
-Vcs-Browser: https://anonscm.debian.org/cgit/openstack/python-cursive.git/
-Vcs-Git: https://anonscm.debian.org/git/openstack/python-cursive.git
+Vcs-Browser: https://git.openstack.org/cgit/openstack/deb-python-cursive?h=debian%2Fnewton
+Vcs-Git: https://git.openstack.org/openstack/deb-python-cursive -b debian/newton
 Homepage: https://github.com/openstack/cursive
 
 Package: python-cursive

@@ -1,5 +1,10 @@
 python-cursive (0.1.1-1) UNRELEASED; urgency=medium
 
+  [ James Page ]
   * Initial release (Closes: #836268).
+
+  [ Ondřej Nový ]
+  * d/s/options: extend-diff-ignore of .gitreview
+  * d/control: Using OpenStack's Gerrit as VCS URLs.
 
  -- James Page <james.page@ubuntu.com>  Thu, 01 Sep 2016 09:24:31 +0100
