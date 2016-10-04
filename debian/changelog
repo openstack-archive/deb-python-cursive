@@ -1,5 +1,6 @@
-python-cursive (0.1.1-2) UNRELEASED; urgency=medium
+python-cursive (0.1.1-2) unstable; urgency=medium
 
+  * Uploading to unstable.
   * Fixed oslotest EPOCH.
   * Added myself as uploader.
   * Using pkgos-dh_auto_{test,install} from openstack-pkg-tools >= 52~.
